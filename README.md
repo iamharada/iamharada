@@ -7,6 +7,7 @@
 
 ##### Other
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
